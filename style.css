@@ -1,0 +1,17 @@
+.cabs{
+    background-color: rgba(164, 176, 185, 0.267);
+    padding: 70px 30px;
+   
+}
+h1{
+    font-size: 60px;
+    
+}
+.cards{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
+.col{
+    margin: 30px;
+}
